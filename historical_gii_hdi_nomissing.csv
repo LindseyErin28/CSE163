@@ -1,0 +1,331 @@
+﻿Index,Country,Region,2010,2013,2015,2016,2017,2018
+GII,Afghanistan,South Asia,0.665,0.633,0.614,0.605,0.59,0.575
+GII,Albania,Europe & Central Asia,0.269,0.266,0.256,0.249,0.236,0.234
+GII,Algeria,Middle East & North Africa,0.523,0.432,0.442,0.439,0.447,0.443
+GII,Armenia,Europe & Central Asia,0.345,0.311,0.301,0.3,0.263,0.259
+GII,Australia,East Asia & Pacific,0.138,0.119,0.11,0.107,0.104,0.103
+GII,Austria,Europe & Central Asia,0.111,0.093,0.089,0.086,0.078,0.073
+GII,Azerbaijan,Europe & Central Asia,0.302,0.309,0.31,0.315,0.318,0.321
+GII,Bahamas,Latin America & Caribbean,0.386,0.379,0.374,0.372,0.353,0.353
+GII,Bahrain,Middle East & North Africa,0.236,0.215,0.226,0.225,0.223,0.207
+GII,Bangladesh,South Asia,0.588,0.563,0.549,0.547,0.538,0.536
+GII,Barbados,Latin America & Caribbean,0.32,0.296,0.295,0.289,0.283,0.256
+GII,Belarus,Europe & Central Asia,0.15,0.153,0.153,0.136,0.129,0.119
+GII,Belgium,Europe & Central Asia,0.091,0.074,0.057,0.053,0.05,0.045
+GII,Belize,Latin America & Caribbean,0.425,0.39,0.386,0.384,0.393,0.391
+GII,Benin,Sub-Saharan Africa,0.623,0.621,0.622,0.618,0.614,0.613
+GII,Bolivia (Plurinational State of),Latin America & Caribbean,0.503,0.49,0.456,0.448,0.448,0.446
+GII,Bosnia and Herzegovina,Europe & Central Asia,0.235,0.194,0.177,0.173,0.167,0.162
+GII,Botswana,Sub-Saharan Africa,0.503,0.485,0.469,0.467,0.466,0.464
+GII,Brazil,Latin America & Caribbean,0.456,0.43,0.413,0.41,0.404,0.386
+GII,Bulgaria,Europe & Central Asia,0.238,0.224,0.234,0.232,0.22,0.218
+GII,Burkina Faso,Sub-Saharan Africa,0.619,0.605,0.623,0.621,0.612,0.612
+GII,Burundi,Sub-Saharan Africa,0.544,0.535,0.524,0.523,0.521,0.52
+GII,Cambodia,East Asia & Pacific,0.493,0.481,0.476,0.475,0.476,0.474
+GII,Cameroon,Sub-Saharan Africa,0.623,0.582,0.577,0.574,0.572,0.566
+GII,Canada,North America,0.126,0.113,0.108,0.099,0.092,0.083
+GII,China,East Asia & Pacific,0.192,0.17,0.165,0.164,0.164,0.163
+GII,Colombia,Latin America & Caribbean,0.456,0.436,0.413,0.41,0.411,0.411
+GII,Congo,Sub-Saharan Africa,0.613,0.604,0.592,0.59,0.58,0.579
+GII,Congo (Democratic Republic of the),Sub-Saharan Africa,0.679,0.646,0.659,0.656,0.655,0.655
+GII,Costa Rica,Latin America & Caribbean,0.321,0.304,0.308,0.309,0.303,0.285
+GII,Croatia,Europe & Central Asia,0.146,0.133,0.15,0.158,0.128,0.122
+GII,Cuba,Latin America & Caribbean,0.326,0.319,0.32,0.319,0.318,0.313
+GII,Cyprus,Europe & Central Asia,0.132,0.134,0.114,0.09,0.087,0.086
+GII,Czech Republic,Europe & Central Asia,0.135,0.138,0.134,0.135,0.133,0.137
+GII,Côte d'Ivoire,Sub-Saharan Africa,0.679,0.663,0.663,0.66,0.658,0.657
+GII,Denmark,Europe & Central Asia,0.056,0.046,0.044,0.042,0.041,0.04
+GII,Dominican Republic,Latin America & Caribbean,0.473,0.489,0.473,0.457,0.454,0.453
+GII,Ecuador,Latin America & Caribbean,0.421,0.407,0.393,0.387,0.39,0.389
+GII,El Salvador,Latin America & Caribbean,0.442,0.412,0.397,0.394,0.398,0.397
+GII,Estonia,Europe & Central Asia,0.169,0.162,0.144,0.132,0.11,0.091
+GII,Eswatini (Kingdom of),Sub-Saharan Africa,0.577,0.583,0.574,0.572,0.571,0.579
+GII,Ethiopia,Sub-Saharan Africa,0.58,0.558,0.519,0.515,0.512,0.508
+GII,Finland,Europe & Central Asia,0.077,0.067,0.063,0.059,0.055,0.05
+GII,France,Europe & Central Asia,0.107,0.089,0.086,0.08,0.058,0.051
+GII,Gabon,Sub-Saharan Africa,0.555,0.548,0.543,0.542,0.537,0.534
+GII,Gambia,Sub-Saharan Africa,0.665,0.653,0.637,0.633,0.625,0.62
+GII,Georgia,Europe & Central Asia,0.42,0.38,0.378,0.356,0.354,0.351
+GII,Germany,Europe & Central Asia,0.097,0.083,0.076,0.076,0.084,0.084
+GII,Ghana,Sub-Saharan Africa,0.574,0.556,0.555,0.553,0.543,0.541
+GII,Greece,Europe & Central Asia,0.157,0.132,0.126,0.122,0.124,0.122
+GII,Guatemala,Latin America & Caribbean,0.539,0.52,0.499,0.492,0.495,0.492
+GII,Guyana,Latin America & Caribbean,0.523,0.509,0.503,0.5,0.495,0.492
+GII,Hungary,Europe & Central Asia,0.255,0.263,0.261,0.265,0.27,0.258
+GII,Iceland,Europe & Central Asia,0.099,0.088,0.075,0.064,0.065,0.057
+GII,India,South Asia,0.6,0.578,0.551,0.538,0.522,0.501
+GII,Indonesia,East Asia & Pacific,0.486,0.471,0.467,0.464,0.453,0.451
+GII,Iran (Islamic Republic of),Middle East & North Africa,0.529,0.536,0.528,0.484,0.488,0.492
+GII,Iraq,Middle East & North Africa,0.556,0.553,0.549,0.546,0.544,0.54
+GII,Ireland,Europe & Central Asia,0.17,0.14,0.129,0.109,0.101,0.093
+GII,Israel,Middle East & North Africa,0.149,0.13,0.114,0.11,0.104,0.1
+GII,Italy,Europe & Central Asia,0.125,0.091,0.087,0.084,0.08,0.069
+GII,Jamaica,Latin America & Caribbean,0.455,0.435,0.423,0.412,0.408,0.405
+GII,Japan,East Asia & Pacific,0.121,0.13,0.121,0.108,0.102,0.099
+GII,Jordan,Middle East & North Africa,0.494,0.494,0.493,0.474,0.471,0.469
+GII,Kazakhstan,Europe & Central Asia,0.268,0.221,0.212,0.209,0.204,0.203
+GII,Kenya,Sub-Saharan Africa,0.614,0.569,0.56,0.557,0.548,0.545
+GII,Korea (Republic of),East Asia & Pacific,0.098,0.078,0.068,0.063,0.06,0.058
+GII,Kuwait,Middle East & North Africa,0.215,0.215,0.308,0.286,0.251,0.245
+GII,Kyrgyzstan,Europe & Central Asia,0.365,0.384,0.4,0.396,0.389,0.381
+GII,Lao People's Democratic Republic,East Asia & Pacific,0.51,0.487,0.474,0.466,0.465,0.463
+GII,Latvia,Europe & Central Asia,0.208,0.188,0.199,0.199,0.208,0.169
+GII,Lebanon,Middle East & North Africa,0.412,0.404,0.402,0.399,0.395,0.362
+GII,Lesotho,Sub-Saharan Africa,0.565,0.55,0.547,0.541,0.545,0.546
+GII,Liberia,Sub-Saharan Africa,0.66,0.66,0.66,0.658,0.659,0.651
+GII,Libya,Middle East & North Africa,0.246,0.182,0.174,0.171,0.173,0.172
+GII,Lithuania,Europe & Central Asia,0.168,0.142,0.133,0.134,0.129,0.124
+GII,Luxembourg,Europe & Central Asia,0.132,0.09,0.077,0.072,0.065,0.078
+GII,Malawi,Sub-Saharan Africa,0.623,0.614,0.624,0.621,0.618,0.615
+GII,Malaysia,East Asia & Pacific,0.309,0.291,0.286,0.287,0.286,0.274
+GII,Maldives,South Asia,0.424,0.388,0.384,0.38,0.375,0.367
+GII,Malta,Middle East & North Africa,0.272,0.204,0.197,0.195,0.197,0.195
+GII,Mauritius,Sub-Saharan Africa,0.382,0.363,0.379,0.377,0.373,0.369
+GII,Mexico,Latin America & Caribbean,0.401,0.366,0.352,0.349,0.346,0.334
+GII,Moldova (Republic of),Europe & Central Asia,0.286,0.253,0.24,0.237,0.232,0.228
+GII,Mongolia,East Asia & Pacific,0.406,0.317,0.321,0.314,0.318,0.322
+GII,Montenegro,Europe & Central Asia,0.216,0.175,0.159,0.135,0.128,0.119
+GII,Morocco,Middle East & North Africa,0.564,0.526,0.504,0.494,0.494,0.492
+GII,Mozambique,Sub-Saharan Africa,0.605,0.583,0.572,0.572,0.57,0.569
+GII,Myanmar,East Asia & Pacific,0.517,0.505,0.443,0.458,0.46,0.459
+GII,Namibia,Sub-Saharan Africa,0.514,0.5,0.477,0.475,0.47,0.46
+GII,Netherlands,Europe & Central Asia,0.054,0.049,0.048,0.045,0.044,0.041
+GII,New Zealand,East Asia & Pacific,0.186,0.17,0.156,0.152,0.137,0.133
+GII,Nicaragua,Latin America & Caribbean,0.52,0.479,0.469,0.461,0.458,0.455
+GII,Norway,Europe & Central Asia,0.075,0.062,0.054,0.051,0.047,0.044
+GII,Oman,Middle East & North Africa,0.328,0.317,0.317,0.311,0.307,0.304
+GII,Pakistan,South Asia,0.578,0.563,0.551,0.55,0.549,0.547
+GII,Panama,Latin America & Caribbean,0.52,0.515,0.467,0.465,0.462,0.46
+GII,Papua New Guinea,East Asia & Pacific,0.667,0.604,0.597,0.594,0.742,0.74
+GII,Paraguay,Latin America & Caribbean,0.511,0.479,0.482,0.483,0.485,0.482
+GII,Peru,Latin America & Caribbean,0.421,0.41,0.402,0.385,0.383,0.381
+GII,Philippines,East Asia & Pacific,0.449,0.433,0.43,0.424,0.427,0.425
+GII,Poland,Europe & Central Asia,0.17,0.153,0.142,0.136,0.128,0.12
+GII,Portugal,Europe & Central Asia,0.141,0.115,0.099,0.094,0.088,0.081
+GII,Qatar,Middle East & North Africa,0.58,0.551,0.539,0.537,0.209,0.202
+GII,Romania,Europe & Central Asia,0.365,0.35,0.346,0.346,0.316,0.316
+GII,Russian Federation,Europe & Central Asia,0.316,0.296,0.28,0.278,0.262,0.255
+GII,Rwanda,Sub-Saharan Africa,0.446,0.424,0.415,0.413,0.412,0.412
+GII,Samoa,East Asia & Pacific,0.418,0.445,0.409,0.374,0.369,0.364
+GII,Sao Tome and Principe,Sub-Saharan Africa,0.548,0.544,0.54,0.538,0.536,0.547
+GII,Saudi Arabia,Middle East & North Africa,0.633,0.271,0.254,0.241,0.232,0.224
+GII,Senegal,Sub-Saharan Africa,0.583,0.542,0.531,0.528,0.524,0.523
+GII,Serbia,Europe & Central Asia,0.221,0.19,0.184,0.176,0.168,0.162
+GII,Sierra Leone,Sub-Saharan Africa,0.665,0.657,0.653,0.649,0.646,0.644
+GII,Singapore,East Asia & Pacific,0.099,0.083,0.068,0.066,0.066,0.065
+GII,Slovakia,Europe & Central Asia,0.195,0.186,0.186,0.184,0.187,0.19
+GII,Slovenia,Europe & Central Asia,0.126,0.072,0.063,0.058,0.053,0.069
+GII,South Africa,Sub-Saharan Africa,0.432,0.43,0.427,0.426,0.424,0.422
+GII,Spain,Europe & Central Asia,0.115,0.098,0.084,0.08,0.077,0.074
+GII,Sri Lanka,South Asia,0.408,0.392,0.398,0.384,0.381,0.38
+GII,Sudan,Sub-Saharan Africa,0.625,0.605,0.579,0.573,0.566,0.56
+GII,Suriname,Latin America & Caribbean,0.534,0.514,0.468,0.469,0.467,0.465
+GII,Sweden,Europe & Central Asia,0.05,0.047,0.045,0.044,0.043,0.04
+GII,Switzerland,Europe & Central Asia,0.062,0.052,0.047,0.043,0.04,0.037
+GII,Syrian Arab Republic,Middle East & North Africa,0.549,0.558,0.559,0.551,0.547,0.547
+GII,Tajikistan,Europe & Central Asia,0.367,0.373,0.384,0.37,0.374,0.377
+GII,Thailand,East Asia & Pacific,0.319,0.314,0.378,0.374,0.386,0.377
+GII,Togo,Sub-Saharan Africa,0.607,0.583,0.573,0.57,0.567,0.566
+GII,Tonga,East Asia & Pacific,0.681,0.48,0.672,0.67,0.419,0.418
+GII,Trinidad and Tobago,Latin America & Caribbean,0.354,0.348,0.334,0.328,0.327,0.324
+GII,Tunisia,Middle East & North Africa,0.313,0.305,0.297,0.298,0.299,0.3
+GII,Turkey,Europe & Central Asia,0.425,0.354,0.333,0.326,0.321,0.305
+GII,Uganda,Sub-Saharan Africa,0.569,0.546,0.536,0.536,0.532,0.531
+GII,Ukraine,Europe & Central Asia,0.337,0.316,0.298,0.294,0.289,0.284
+GII,United Arab Emirates,Middle East & North Africa,0.231,0.216,0.178,0.16,0.138,0.113
+GII,United Kingdom,Europe & Central Asia,0.183,0.167,0.146,0.138,0.128,0.119
+GII,United States,North America,0.254,0.235,0.219,0.211,0.202,0.182
+GII,Uruguay,Latin America & Caribbean,0.327,0.323,0.288,0.286,0.276,0.275
+GII,Venezuela (Bolivarian Republic of),Latin America & Caribbean,0.475,0.472,0.47,0.481,0.459,0.458
+GII,Vietnam,East Asia & Pacific,0.324,0.329,0.333,0.323,0.318,0.314
+GII,Yemen,Middle East & North Africa,0.821,0.829,0.841,0.837,0.835,0.834
+GII,Zambia,Sub-Saharan Africa,0.587,0.585,0.571,0.548,0.543,0.54
+GII,Zimbabwe,Sub-Saharan Africa,0.578,0.53,0.54,0.535,0.528,0.525
+HDI,Norway,Europe & Central Asia,0.942,0.946,0.948,0.951,0.953,0.954
+HDI,Switzerland,Europe & Central Asia,0.932,0.938,0.943,0.943,0.943,0.946
+HDI,Ireland,Europe & Central Asia,0.89,0.908,0.926,0.936,0.939,0.942
+HDI,Germany,Europe & Central Asia,0.92,0.927,0.933,0.936,0.938,0.939
+HDI,"Hong Kong, China (SAR)",East Asia & Pacific,0.901,0.916,0.927,0.931,0.936,0.939
+HDI,Australia,East Asia & Pacific,0.926,0.926,0.933,0.935,0.937,0.938
+HDI,Iceland,Europe & Central Asia,0.892,0.92,0.927,0.932,0.935,0.938
+HDI,Sweden,Europe & Central Asia,0.906,0.927,0.932,0.934,0.935,0.937
+HDI,Singapore,East Asia & Pacific,0.909,0.923,0.929,0.933,0.934,0.935
+HDI,Netherlands,Europe & Central Asia,0.911,0.924,0.927,0.929,0.932,0.933
+HDI,Denmark,Europe & Central Asia,0.91,0.926,0.926,0.928,0.929,0.93
+HDI,Finland,Europe & Central Asia,0.903,0.916,0.919,0.922,0.924,0.925
+HDI,Canada,North America,0.895,0.91,0.917,0.92,0.921,0.922
+HDI,New Zealand,East Asia & Pacific,0.899,0.907,0.914,0.917,0.92,0.921
+HDI,United Kingdom,Europe & Central Asia,0.905,0.914,0.916,0.918,0.919,0.92
+HDI,United States,North America,0.911,0.914,0.917,0.919,0.919,0.92
+HDI,Belgium,Europe & Central Asia,0.903,0.908,0.913,0.915,0.917,0.919
+HDI,Liechtenstein,Europe & Central Asia,0.904,0.912,0.912,0.915,0.916,0.917
+HDI,Japan,East Asia & Pacific,0.885,0.9,0.906,0.91,0.913,0.915
+HDI,Austria,Europe & Central Asia,0.895,0.896,0.906,0.909,0.912,0.914
+HDI,Luxembourg,Europe & Central Asia,0.893,0.892,0.899,0.904,0.908,0.909
+HDI,Israel,Middle East & North Africa,0.887,0.895,0.901,0.902,0.904,0.906
+HDI,Korea (Republic of),East Asia & Pacific,0.882,0.893,0.899,0.901,0.904,0.906
+HDI,Slovenia,Europe & Central Asia,0.881,0.884,0.886,0.892,0.899,0.902
+HDI,Spain,Europe & Central Asia,0.865,0.875,0.885,0.888,0.891,0.893
+HDI,Czech Republic,Europe & Central Asia,0.862,0.874,0.882,0.885,0.888,0.891
+HDI,France,Europe & Central Asia,0.872,0.882,0.888,0.887,0.89,0.891
+HDI,Malta,Middle East & North Africa,0.847,0.861,0.877,0.881,0.883,0.885
+HDI,Italy,Europe & Central Asia,0.871,0.873,0.875,0.878,0.881,0.883
+HDI,Estonia,Europe & Central Asia,0.844,0.863,0.871,0.875,0.879,0.882
+HDI,Cyprus,Europe & Central Asia,0.85,0.854,0.864,0.869,0.871,0.873
+HDI,Greece,Europe & Central Asia,0.857,0.858,0.868,0.866,0.871,0.872
+HDI,Poland,Europe & Central Asia,0.835,0.851,0.858,0.864,0.868,0.872
+HDI,Lithuania,Europe & Central Asia,0.824,0.84,0.855,0.86,0.866,0.869
+HDI,United Arab Emirates,Middle East & North Africa,0.821,0.839,0.86,0.863,0.864,0.866
+HDI,Andorra,Europe & Central Asia,0.828,0.846,0.85,0.854,0.852,0.857
+HDI,Saudi Arabia,Middle East & North Africa,0.81,0.846,0.857,0.857,0.856,0.857
+HDI,Slovakia,Europe & Central Asia,0.829,0.844,0.849,0.851,0.854,0.857
+HDI,Latvia,Europe & Central Asia,0.817,0.834,0.842,0.845,0.849,0.854
+HDI,Portugal,Europe & Central Asia,0.822,0.837,0.843,0.846,0.848,0.85
+HDI,Qatar,Middle East & North Africa,0.834,0.857,0.851,0.847,0.848,0.848
+HDI,Chile,Latin America & Caribbean,0.8,0.83,0.839,0.843,0.845,0.847
+HDI,Brunei Darussalam,East Asia & Pacific,0.832,0.844,0.843,0.844,0.843,0.845
+HDI,Hungary,Europe & Central Asia,0.826,0.835,0.835,0.838,0.841,0.845
+HDI,Bahrain,Middle East & North Africa,0.796,0.807,0.834,0.839,0.839,0.838
+HDI,Croatia,Europe & Central Asia,0.811,0.825,0.83,0.832,0.835,0.837
+HDI,Oman,Middle East & North Africa,0.793,0.811,0.827,0.834,0.833,0.834
+HDI,Argentina,Latin America & Caribbean,0.818,0.824,0.828,0.828,0.832,0.83
+HDI,Russian Federation,Europe & Central Asia,0.78,0.803,0.813,0.817,0.822,0.824
+HDI,Belarus,Europe & Central Asia,0.792,0.808,0.811,0.812,0.815,0.817
+HDI,Kazakhstan,Europe & Central Asia,0.764,0.791,0.806,0.808,0.813,0.817
+HDI,Bulgaria,Europe & Central Asia,0.779,0.792,0.807,0.812,0.813,0.816
+HDI,Montenegro,Europe & Central Asia,0.793,0.801,0.807,0.809,0.813,0.816
+HDI,Romania,Europe & Central Asia,0.797,0.8,0.806,0.808,0.813,0.816
+HDI,Palau,East Asia & Pacific,0.776,0.811,0.803,0.808,0.811,0.814
+HDI,Barbados,Latin America & Caribbean,0.799,0.812,0.812,0.814,0.813,0.813
+HDI,Kuwait,Middle East & North Africa,0.794,0.798,0.807,0.809,0.809,0.808
+HDI,Uruguay,Latin America & Caribbean,0.774,0.797,0.802,0.806,0.807,0.808
+HDI,Turkey,Europe & Central Asia,0.743,0.781,0.8,0.8,0.805,0.806
+HDI,Bahamas,Latin America & Caribbean,0.795,0.797,0.799,0.8,0.804,0.805
+HDI,Malaysia,East Asia & Pacific,0.773,0.787,0.797,0.801,0.802,0.804
+HDI,Seychelles,Sub-Saharan Africa,0.762,0.782,0.801,0.801,0.8,0.801
+HDI,Serbia,Europe & Central Asia,0.762,0.775,0.785,0.791,0.794,0.799
+HDI,Trinidad and Tobago,Latin America & Caribbean,0.788,0.787,0.796,0.796,0.799,0.799
+HDI,Iran (Islamic Republic of),Middle East & North Africa,0.756,0.785,0.789,0.799,0.799,0.797
+HDI,Mauritius,Sub-Saharan Africa,0.748,0.775,0.786,0.79,0.793,0.796
+HDI,Panama,Latin America & Caribbean,0.758,0.775,0.782,0.788,0.793,0.795
+HDI,Costa Rica,Latin America & Caribbean,0.754,0.777,0.786,0.789,0.792,0.794
+HDI,Albania,Europe & Central Asia,0.74,0.781,0.788,0.788,0.789,0.791
+HDI,Georgia,Europe & Central Asia,0.732,0.756,0.771,0.776,0.783,0.786
+HDI,Sri Lanka,South Asia,0.75,0.765,0.772,0.774,0.776,0.78
+HDI,Cuba,Latin America & Caribbean,0.776,0.762,0.768,0.771,0.777,0.778
+HDI,Saint Kitts and Nevis,Latin America & Caribbean,0.747,0.767,0.769,0.772,0.774,0.777
+HDI,Antigua and Barbuda,Latin America & Caribbean,0.771,0.767,0.77,0.772,0.774,0.776
+HDI,Bosnia and Herzegovina,Europe & Central Asia,0.714,0.748,0.755,0.765,0.767,0.769
+HDI,Mexico,Latin America & Caribbean,0.739,0.75,0.759,0.764,0.765,0.767
+HDI,Thailand,East Asia & Pacific,0.721,0.731,0.746,0.753,0.762,0.765
+HDI,Grenada,Latin America & Caribbean,0.743,0.75,0.756,0.76,0.76,0.763
+HDI,Brazil,Latin America & Caribbean,0.726,0.752,0.755,0.757,0.76,0.761
+HDI,Colombia,Latin America & Caribbean,0.729,0.746,0.753,0.759,0.76,0.761
+HDI,Armenia,Europe & Central Asia,0.729,0.743,0.748,0.751,0.758,0.76
+HDI,Algeria,Middle East & North Africa,0.73,0.746,0.751,0.755,0.758,0.759
+HDI,North Macedonia,Europe & Central Asia,0.735,0.743,0.753,0.757,0.758,0.759
+HDI,Peru,Latin America & Caribbean,0.721,0.742,0.75,0.755,0.756,0.759
+HDI,China,East Asia & Pacific,0.702,0.727,0.742,0.749,0.753,0.758
+HDI,Ecuador,Latin America & Caribbean,0.716,0.751,0.758,0.756,0.757,0.758
+HDI,Azerbaijan,Europe & Central Asia,0.732,0.741,0.749,0.749,0.752,0.754
+HDI,Ukraine,Europe & Central Asia,0.732,0.744,0.742,0.746,0.747,0.75
+HDI,Dominican Republic,Latin America & Caribbean,0.701,0.712,0.733,0.738,0.741,0.745
+HDI,Saint Lucia,Latin America & Caribbean,0.73,0.726,0.736,0.744,0.744,0.745
+HDI,Tunisia,Middle East & North Africa,0.717,0.725,0.731,0.736,0.738,0.739
+HDI,Mongolia,East Asia & Pacific,0.697,0.728,0.736,0.73,0.729,0.735
+HDI,Lebanon,Middle East & North Africa,0.751,0.741,0.728,0.725,0.732,0.73
+HDI,Botswana,Sub-Saharan Africa,0.66,0.699,0.714,0.719,0.724,0.728
+HDI,Saint Vincent and the Grenadines,Latin America & Caribbean,0.711,0.714,0.721,0.725,0.726,0.728
+HDI,Jamaica,Latin America & Caribbean,0.723,0.72,0.722,0.722,0.725,0.726
+HDI,Venezuela (Bolivarian Republic of),Latin America & Caribbean,0.753,0.772,0.763,0.752,0.735,0.726
+HDI,Dominica,Latin America & Caribbean,0.733,0.73,0.729,0.729,0.723,0.724
+HDI,Fiji,East Asia & Pacific,0.694,0.707,0.718,0.718,0.721,0.724
+HDI,Paraguay,Latin America & Caribbean,0.692,0.709,0.718,0.718,0.722,0.724
+HDI,Suriname,Latin America & Caribbean,0.701,0.724,0.73,0.725,0.722,0.724
+HDI,Jordan,Middle East & North Africa,0.728,0.72,0.721,0.722,0.722,0.723
+HDI,Belize,Latin America & Caribbean,0.693,0.707,0.715,0.722,0.719,0.72
+HDI,Maldives,South Asia,0.669,0.693,0.709,0.713,0.716,0.719
+HDI,Tonga,East Asia & Pacific,0.692,0.699,0.714,0.715,0.717,0.717
+HDI,Philippines,East Asia & Pacific,0.672,0.692,0.702,0.704,0.709,0.712
+HDI,Moldova (Republic of),Europe & Central Asia,0.681,0.702,0.703,0.705,0.709,0.711
+HDI,Turkmenistan,Europe & Central Asia,0.673,0.691,0.701,0.706,0.708,0.71
+HDI,Uzbekistan,Europe & Central Asia,0.665,0.688,0.696,0.701,0.707,0.71
+HDI,Libya,Middle East & North Africa,0.757,0.707,0.691,0.69,0.704,0.708
+HDI,Indonesia,East Asia & Pacific,0.666,0.688,0.696,0.7,0.704,0.707
+HDI,Samoa,East Asia & Pacific,0.69,0.696,0.699,0.704,0.706,0.707
+HDI,South Africa,Sub-Saharan Africa,0.662,0.683,0.699,0.702,0.704,0.705
+HDI,Bolivia (Plurinational State of),Latin America & Caribbean,0.655,0.673,0.685,0.692,0.7,0.703
+HDI,Gabon,Sub-Saharan Africa,0.658,0.679,0.692,0.696,0.7,0.702
+HDI,Egypt,Middle East & North Africa,0.666,0.681,0.69,0.695,0.696,0.7
+HDI,Vietnam,East Asia & Pacific,0.653,0.673,0.68,0.685,0.69,0.693
+HDI,"Palestine, State of",Middle East & North Africa,0.671,0.681,0.685,0.687,0.689,0.69
+HDI,Iraq,Middle East & North Africa,0.652,0.662,0.665,0.672,0.684,0.689
+HDI,Morocco,Middle East & North Africa,0.618,0.646,0.66,0.669,0.675,0.676
+HDI,Kyrgyzstan,Europe & Central Asia,0.636,0.658,0.666,0.669,0.671,0.674
+HDI,Guyana,Latin America & Caribbean,0.639,0.656,0.663,0.666,0.668,0.67
+HDI,El Salvador,Latin America & Caribbean,0.659,0.662,0.66,0.662,0.665,0.667
+HDI,Tajikistan,Europe & Central Asia,0.63,0.643,0.642,0.647,0.651,0.656
+HDI,Cabo Verde,Sub-Saharan Africa,0.626,0.641,0.643,0.645,0.647,0.651
+HDI,Guatemala,Latin America & Caribbean,0.602,0.616,0.647,0.648,0.649,0.651
+HDI,Nicaragua,Latin America & Caribbean,0.614,0.63,0.644,0.649,0.653,0.651
+HDI,India,South Asia,0.581,0.607,0.627,0.637,0.643,0.647
+HDI,Namibia,Sub-Saharan Africa,0.588,0.622,0.637,0.639,0.643,0.645
+HDI,Timor-Leste,East Asia & Pacific,0.62,0.613,0.628,0.628,0.624,0.626
+HDI,Honduras,Latin America & Caribbean,0.598,0.603,0.613,0.618,0.621,0.623
+HDI,Kiribati,East Asia & Pacific,0.589,0.605,0.619,0.622,0.623,0.623
+HDI,Bhutan,South Asia,0.571,0.594,0.606,0.61,0.615,0.617
+HDI,Bangladesh,South Asia,0.549,0.572,0.588,0.599,0.609,0.614
+HDI,Micronesia (Federated States of),East Asia & Pacific,0.595,0.599,0.606,0.608,0.612,0.614
+HDI,Sao Tome and Principe,Sub-Saharan Africa,0.546,0.568,0.59,0.593,0.603,0.609
+HDI,Congo,Sub-Saharan Africa,0.557,0.581,0.614,0.613,0.609,0.608
+HDI,Eswatini (Kingdom of),Sub-Saharan Africa,0.513,0.558,0.585,0.596,0.603,0.608
+HDI,Lao People's Democratic Republic,East Asia & Pacific,0.546,0.579,0.594,0.598,0.602,0.604
+HDI,Vanuatu,East Asia & Pacific,0.585,0.588,0.592,0.592,0.595,0.597
+HDI,Ghana,Sub-Saharan Africa,0.554,0.578,0.585,0.587,0.591,0.596
+HDI,Zambia,Sub-Saharan Africa,0.531,0.559,0.57,0.58,0.589,0.591
+HDI,Equatorial Guinea,Sub-Saharan Africa,0.58,0.588,0.593,0.592,0.59,0.588
+HDI,Myanmar,East Asia & Pacific,0.523,0.551,0.565,0.571,0.577,0.584
+HDI,Cambodia,East Asia & Pacific,0.535,0.555,0.566,0.572,0.578,0.581
+HDI,Kenya,Sub-Saharan Africa,0.533,0.551,0.562,0.568,0.574,0.579
+HDI,Nepal,South Asia,0.527,0.555,0.568,0.572,0.574,0.579
+HDI,Angola,Sub-Saharan Africa,0.51,0.547,0.565,0.57,0.576,0.574
+HDI,Cameroon,Sub-Saharan Africa,0.471,0.531,0.548,0.556,0.56,0.563
+HDI,Zimbabwe,Sub-Saharan Africa,0.472,0.527,0.543,0.549,0.553,0.563
+HDI,Pakistan,South Asia,0.524,0.537,0.55,0.556,0.558,0.56
+HDI,Solomon Islands,East Asia & Pacific,0.524,0.55,0.555,0.553,0.555,0.557
+HDI,Syrian Arab Republic,Middle East & North Africa,0.644,0.572,0.54,0.539,0.544,0.549
+HDI,Papua New Guinea,East Asia & Pacific,0.51,0.521,0.539,0.541,0.543,0.543
+HDI,Comoros,Sub-Saharan Africa,0.513,0.532,0.535,0.537,0.539,0.538
+HDI,Rwanda,Sub-Saharan Africa,0.488,0.506,0.515,0.525,0.529,0.536
+HDI,Nigeria,Sub-Saharan Africa,0.484,0.52,0.527,0.528,0.533,0.534
+HDI,Tanzania (United Republic of),Sub-Saharan Africa,0.487,0.503,0.519,0.518,0.522,0.528
+HDI,Uganda,Sub-Saharan Africa,0.489,0.503,0.515,0.52,0.522,0.528
+HDI,Mauritania,Sub-Saharan Africa,0.49,0.511,0.521,0.519,0.524,0.527
+HDI,Madagascar,Sub-Saharan Africa,0.504,0.509,0.514,0.515,0.518,0.521
+HDI,Benin,Sub-Saharan Africa,0.473,0.5,0.51,0.512,0.515,0.52
+HDI,Lesotho,Sub-Saharan Africa,0.461,0.486,0.499,0.507,0.514,0.518
+HDI,Côte d'Ivoire,Sub-Saharan Africa,0.454,0.475,0.494,0.508,0.512,0.516
+HDI,Senegal,Sub-Saharan Africa,0.468,0.494,0.504,0.506,0.51,0.514
+HDI,Togo,Sub-Saharan Africa,0.468,0.49,0.502,0.506,0.51,0.513
+HDI,Sudan,Sub-Saharan Africa,0.471,0.477,0.501,0.505,0.507,0.507
+HDI,Haiti,Latin America & Caribbean,0.467,0.483,0.492,0.497,0.501,0.503
+HDI,Afghanistan,South Asia,0.464,0.485,0.49,0.491,0.493,0.496
+HDI,Djibouti,Middle East & North Africa,0.446,0.467,0.482,0.489,0.492,0.495
+HDI,Malawi,Sub-Saharan Africa,0.437,0.463,0.475,0.478,0.482,0.485
+HDI,Ethiopia,Sub-Saharan Africa,0.412,0.439,0.453,0.46,0.466,0.47
+HDI,Gambia,Sub-Saharan Africa,0.437,0.448,0.454,0.456,0.459,0.466
+HDI,Guinea,Sub-Saharan Africa,0.408,0.439,0.449,0.456,0.463,0.466
+HDI,Liberia,Sub-Saharan Africa,0.441,0.463,0.463,0.463,0.466,0.465
+HDI,Yemen,Middle East & North Africa,0.499,0.506,0.493,0.477,0.463,0.463
+HDI,Guinea-Bissau,Sub-Saharan Africa,0.426,0.441,0.453,0.457,0.46,0.461
+HDI,Congo (Democratic Republic of the),Sub-Saharan Africa,0.416,0.429,0.445,0.453,0.456,0.459
+HDI,Mozambique,Sub-Saharan Africa,0.396,0.412,0.428,0.435,0.442,0.446
+HDI,Sierra Leone,Sub-Saharan Africa,0.391,0.426,0.422,0.423,0.435,0.438
+HDI,Burkina Faso,Sub-Saharan Africa,0.375,0.401,0.413,0.42,0.429,0.434
+HDI,Eritrea,Sub-Saharan Africa,0.433,0.425,0.433,0.434,0.431,0.434
+HDI,Mali,Sub-Saharan Africa,0.403,0.408,0.412,0.42,0.426,0.427
+HDI,Burundi,Sub-Saharan Africa,0.402,0.422,0.427,0.427,0.421,0.423
+HDI,South Sudan,Sub-Saharan Africa,0.425,0.439,0.428,0.418,0.414,0.413
+HDI,Chad,Sub-Saharan Africa,0.374,0.399,0.403,0.398,0.401,0.401
+HDI,Central African Republic,Sub-Saharan Africa,0.355,0.351,0.362,0.372,0.376,0.381
+HDI,Niger,Sub-Saharan Africa,0.319,0.345,0.36,0.365,0.373,0.377
